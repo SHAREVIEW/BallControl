@@ -1,3 +1,8 @@
+https://csharp.hotexamples.com/examples/InTheHand.Net.Sockets/BluetoothClient/Connect/php-bluetoothclient-connect-method-examples.html
+
+EXAMPLE #9
+
+
 # Ball Control #
 #### A BlueTooth/Accelerometer/Camera/VoiceControl app for fun and for Developer Competition ####
 
@@ -78,7 +83,7 @@ There are some NUnit unit tests included - I ran out of time a bit - so coverage
 ----------
 
 ###GETTING STARTED###
-At the time of creating this project, Ball Control makes heavy use of the latest version of MvvmCross which in turn uses Portable Class libraries (PCL’s) extensively.  At this time, there are a few tweaks you must make to your system(s) before you may be able to compile the project.  The main issue is that the Mono for Android and MonoTouch profiles do not recognize Portable Class Libraries (PCL’s) as valid profile types to reference.  We need to ‘trick’ visual studio into allowing us to reference these PCL’s.
+At the time of creating this project, Ball Control makes heavy use of the latest version of MvvmCross which in turn uses Portable Class libraries (PCLâ€™s) extensively.  At this time, there are a few tweaks you must make to your system(s) before you may be able to compile the project.  The main issue is that the Mono for Android and MonoTouch profiles do not recognize Portable Class Libraries (PCLâ€™s) as valid profile types to reference.  We need to â€˜trickâ€™ visual studio into allowing us to reference these PCLâ€™s.
 
 #####Windows Setup:#####
 In order to get Visual Studio Mono for Android projects to be able to reference Portable Class Libraries, we need to trick it.
